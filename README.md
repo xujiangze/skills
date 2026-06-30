@@ -1,8 +1,25 @@
-# 创建插件
+# 使用
+## claude code
+- 添加市场
+```
+/plugin marketplace add xujiangze/skills
+```
+- 安装插件 `/plugin install <插件名>@<市场名>` 
+```
+/plugin install hello-plugin@my-plugins
+```
+
+
+
+
+
+
+# 附件
+## 创建插件
 https://code.claude.com/docs/en/plugins
 
-# 插件市场
-## 添加本地插件市场
+## 插件市场
+### 添加本地插件市场
 ```
 /plugin marketplace add ./my-marketplace
 ```
