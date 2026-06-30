@@ -1,8 +1,0 @@
-{
-  "name": "my-first-plugin",
-  "description": "我的测试插件",
-  "version": "1.0.0",
-  "author": {
-    "name": "jiangze.xu"
-  }
-}
