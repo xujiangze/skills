@@ -1,0 +1,13 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "jiangze.xu"
+  },
+  "plugins": [
+    {
+      "name": "hello-plugin",
+      "source": "./plugins/hello-plugin",
+      "description": "打招呼技能"
+    }
+  ]
+}
